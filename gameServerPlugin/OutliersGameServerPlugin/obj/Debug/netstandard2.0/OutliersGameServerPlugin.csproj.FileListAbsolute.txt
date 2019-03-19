@@ -1,0 +1,16 @@
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\OutliersGameServerPlugin.deps.json
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\OutliersGameServerPlugin.dll
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\OutliersGameServerPlugin.pdb
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.dll
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.dll
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.pdb
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.xml
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.pdb
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.xml
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.csprojAssemblyReference.cache
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.AssemblyInfoInputs.cache
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.AssemblyInfo.cs
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.csproj.CopyComplete
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.dll
+C:\Users\Taylor\Documents\OutliersGame\gameServerPlugin\OutliersGameServerPlugin\obj\Debug\netstandard2.0\OutliersGameServerPlugin.pdb
